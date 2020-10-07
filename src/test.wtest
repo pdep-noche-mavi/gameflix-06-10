@@ -1,0 +1,9 @@
+
+test "Un usuario juega un juego de... y le pasa tal cosa" {
+
+	assert.that(true)
+
+}
+test "gameflix recomienda un juego al azar"{
+	
+}
